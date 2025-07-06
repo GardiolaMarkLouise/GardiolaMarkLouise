@@ -3,7 +3,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/mark-louise-gardiola-235658251/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mark-louise-gardiola-235658251/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mrklgrdl1124/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mark-louise-gardiola-235658251/" height="30" width="40" /></a>
 <a href="https://www.facebook.com/mark.louise.gardiola" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mark.louise.gardiola" height="30" width="40" /></a>
 </p>
 
